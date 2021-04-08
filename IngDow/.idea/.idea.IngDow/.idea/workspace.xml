@@ -54,9 +54,21 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1617801976251">
+    <state x="233" y="2" key="#Plugins" timestamp="1617908524162">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1617801976251" />
+    <state x="233" y="2" key="#Plugins/0.0.1280.720@0.0.1280.720" timestamp="1617908524162" />
+    <state x="321" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1617900693885">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="321" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1617900693885" />
+    <state x="221" y="104" key="IDE.errors.dialog" timestamp="1617909313640">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="221" y="104" key="IDE.errors.dialog/0.0.1280.720@0.0.1280.720" timestamp="1617909313640" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1617908456759">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1617908456759" />
   </component>
 </project>
