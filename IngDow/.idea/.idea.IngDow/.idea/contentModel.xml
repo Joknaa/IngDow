@@ -6,10 +6,8 @@
     <e p="O:\MyStuff\Files\mySpace\Projects\games\unity\Projects\IngDow\IngDow" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Art" t="Include">
-          <e p="Level1.xml" t="Include" />
-        </e>
         <e p="Scripts" t="Include">
+          <e p="AnimationController.cs" t="Include" />
           <e p="GroundCheck.cs" t="Include" />
           <e p="MovemenController.cs" t="Include" />
         </e>

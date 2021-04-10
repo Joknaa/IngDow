@@ -14,6 +14,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/GroundCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovemenController.cs" />
       </list>
     </option>
@@ -26,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -54,9 +56,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="2" key="#Plugins" timestamp="1617908524162">
+    <state x="233" y="2" key="#Plugins" timestamp="1617980633189">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="233" y="2" key="#Plugins/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1617980633189" />
     <state x="233" y="2" key="#Plugins/0.0.1280.720@0.0.1280.720" timestamp="1617908524162" />
     <state x="321" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1617900693885">
       <screen x="0" y="0" width="1280" height="720" />
@@ -66,9 +69,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="221" y="104" key="IDE.errors.dialog/0.0.1280.720@0.0.1280.720" timestamp="1617909313640" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1617908456759">
+    <state x="142" y="6" key="SettingsEditor" timestamp="1617980131572">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="142" y="6" key="SettingsEditor/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1617980131572" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1617980596054">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1617980596054" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1617908456759" />
   </component>
 </project>
