@@ -1,6 +1,3 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class GroundCheck : MonoBehaviour {
@@ -12,12 +9,12 @@ public class GroundCheck : MonoBehaviour {
 
     private void OnCollisionEnter2D(Collision2D other) {
         if (other.gameObject.CompareTag("Ground")) {
-            Player.GetComponent<MovemenController>().IsGrounded = true;
+            Player.GetComponent<MovementController>().IsGrounded = true;
         }
     }
     private void OnCollisionExit2D(Collision2D other) {
         if (other.gameObject.CompareTag("Ground")) {
-            Player.GetComponent<MovemenController>().IsGrounded = false;
+            Player.GetComponent<MovementController>().IsGrounded = false;
         }
     }
 }

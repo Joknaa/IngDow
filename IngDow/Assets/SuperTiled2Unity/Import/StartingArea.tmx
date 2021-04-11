@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="26" height="17" tilewidth="16" tileheight="16" infinite="0" backgroundcolor="#9e9e9e" nextlayerid="4" nextobjectid="12">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="26" height="17" tilewidth="16" tileheight="16" infinite="0" backgroundcolor="#9e9e9e" nextlayerid="4" nextobjectid="20">
  <editorsettings>
   <export target="Level2.tmx" format="tmx"/>
  </editorsettings>
@@ -46,14 +46,13 @@
 22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22
 </data>
  </layer>
- <objectgroup id="3" name="Collision Mask">
-  <object id="2" x="64.125" y="0" width="303.938" height="31.9375"/>
-  <object id="3" x="351.813" y="31.9375" width="63.9375" height="160.125"/>
-  <object id="4" x="48.125" y="240" width="366.938" height="15.875"/>
-  <object id="5" x="0.1875" y="80.125" width="63.6875" height="159.75"/>
-  <object id="7" x="111" y="175" width="50.5" height="16"/>
-  <object id="8" x="176" y="191.5" width="48" height="15.75"/>
-  <object id="10" x="159.5" y="224" width="16.5" height="16.25"/>
-  <object id="11" x="255.875" y="191.75" width="48.375" height="16.125"/>
+ <objectgroup id="3" name="Collision Mask" visible="0">
+  <object id="13" x="160" y="224" width="16" height="16"/>
+  <object id="14" x="176" y="192" width="48" height="16"/>
+  <object id="15" x="112" y="176" width="48" height="16"/>
+  <object id="16" x="48" y="240" width="368" height="16"/>
+  <object id="17" x="352" y="16" width="64" height="176"/>
+  <object id="18" x="64" y="0" width="288" height="32"/>
+  <object id="19" x="0" y="80" width="64" height="160"/>
  </objectgroup>
 </map>

@@ -13,9 +13,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/GroundCheck.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovemenController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GroundCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" />
       </list>
     </option>
   </component>
@@ -65,9 +66,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="321" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1617900693885" />
-    <state x="221" y="104" key="IDE.errors.dialog" timestamp="1617909313640">
+    <state x="221" y="104" key="IDE.errors.dialog" timestamp="1618046972169">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="221" y="104" key="IDE.errors.dialog/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1618046972169" />
     <state x="221" y="104" key="IDE.errors.dialog/0.0.1280.720@0.0.1280.720" timestamp="1617909313640" />
     <state x="142" y="6" key="SettingsEditor" timestamp="1617980131572">
       <screen x="0" y="0" width="1280" height="720" />

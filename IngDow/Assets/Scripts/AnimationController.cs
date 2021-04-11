@@ -10,12 +10,12 @@ public class AnimationController : MonoBehaviour {
     private SpriteRenderer PlayerSprite;
     private Animator PlayerAnimator;
     private PlayerState CurrentState;
-    private MovemenController MovementController;
+    private MovementController MovementController;
 
     private void Start() {
         PlayerSprite = GetComponent<SpriteRenderer>();
         PlayerAnimator = GetComponent<Animator>();
-        MovementController = GetComponent<MovemenController>();
+        MovementController = GetComponent<MovementController>();
     }
 
     public void ChangeAnimationState(PlayerState newState) {
