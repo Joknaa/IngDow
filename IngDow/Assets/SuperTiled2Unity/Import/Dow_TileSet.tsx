@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="Dow_TileSet" tilewidth="16" tileheight="16" tilecount="400" columns="20">
- <image source="TileSet/Dow_TileMap.png" width="320" height="320"/>
+ <image source="TileSet/Dow_TileSet.png" width="320" height="320"/>
  <terraintypes>
   <terrain name="Walls" tile="-1"/>
   <terrain name="LockedDoor" tile="-1"/>
