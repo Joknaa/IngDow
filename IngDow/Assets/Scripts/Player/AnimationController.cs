@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Player;
+using UnityEngine;
 
 public enum PlayerState {
     Idle,
@@ -11,11 +12,13 @@ public class AnimationController : MonoBehaviour {
     private Animator PlayerAnimator;
     private PlayerState CurrentState;
     private MovementController MovementController;
+    private CharacterController2D CharacterController2D;
 
     private void Start() {
         PlayerSprite = GetComponent<SpriteRenderer>();
         PlayerAnimator = GetComponent<Animator>();
         MovementController = GetComponent<MovementController>();
+        CharacterController2D = GetComponent<CharacterController2D>();
     }
 
     public void ChangeAnimationState(PlayerState newState) {
@@ -24,17 +27,23 @@ public class AnimationController : MonoBehaviour {
         CurrentState = newState;
     }
     
-    private void FixedUpdate() {
-        if (MovementController.IsGrounded) {
+    private void Update() {
+        if (CharacterController2D.IsGrounded) {
             if (MovementController.xAxis != 0) {
-                ChangeAnimationState(PlayerState.Run);
                 PlayerSprite.flipX = MovementController.xAxis < 0;
-            } else if (MovementController.JumpRegistered) {
-                ChangeAnimationState(PlayerState.Jump);
-            }else {
+                ChangeAnimationState(PlayerState.Run);
+            }
+            else {
                 ChangeAnimationState(PlayerState.Idle);
             }
+
+            if (MovementController.Jump) {
+                ChangeAnimationState(PlayerState.Jump);
+            }
+        } else {
+            PlayerSprite.flipX = MovementController.xAxis < 0;
         }
+
         
     }
 }

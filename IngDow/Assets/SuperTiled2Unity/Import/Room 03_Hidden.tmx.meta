@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ca3d6772e48473b4383b1cee21a7e748
+guid: 16fa0d279ed89d0499be41a4f6b4fbe9
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -10,13 +10,12 @@ ScriptedImporter:
   script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
   missingFiles: []
   errors: []
-  warnings:
-  - Pixels Per Unit mismatch between map (100) and tileset 'Dow_TileSet.tsx' (16)
+  warnings: []
   missingSortingLayers: []
   missingLayers: []
   missingTags: []
   importerVersion: 22
-  pixelsPerUnit: 100
+  pixelsPerUnit: 16
   edgesPerEllipse: 32
   numberOfObjectsImported: 2
   tilesAsObjects: 0

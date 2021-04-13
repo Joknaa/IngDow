@@ -8,15 +8,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GroundCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../GameProject_Ookun/Ookun's Adventures (TopDown RPG)/Assets/_Scripts/Game Mecanics/CameraMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/GroundCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/16/4c6426cd/Transform.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovemenController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GroundCheck.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementController - Copy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GroundCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementController2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/AnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/MovementController.cs" />
+        <option value="$PROJECT_DIR$/../../GameProject_Ookun/Ookun's Adventures (TopDown RPG)/Assets/_Scripts/Game Mecanics/CameraMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Transitions/RoomTransitions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camera/CameraController.cs" />
       </list>
     </option>
   </component>
@@ -71,6 +82,10 @@
     </state>
     <state x="221" y="104" key="IDE.errors.dialog/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1618046972169" />
     <state x="221" y="104" key="IDE.errors.dialog/0.0.1280.720@0.0.1280.720" timestamp="1617909313640" />
+    <state x="409" y="85" key="RiderGenerateDialog" timestamp="1618336330162">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="409" y="85" key="RiderGenerateDialog/0.0.1280.720@0.0.1280.720" timestamp="1618336330162" />
     <state x="142" y="6" key="SettingsEditor" timestamp="1617980131572">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

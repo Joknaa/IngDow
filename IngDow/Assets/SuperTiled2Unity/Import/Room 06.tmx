@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="26" height="17" tilewidth="16" tileheight="16" infinite="0" backgroundcolor="#9e9e9e" nextlayerid="6" nextobjectid="34">
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="26" height="17" tilewidth="16" tileheight="16" infinite="0" backgroundcolor="#9e9e9e" nextlayerid="6" nextobjectid="40">
  <editorsettings>
   <export target="Level2.tmx" format="tmx"/>
  </editorsettings>
@@ -46,5 +46,12 @@
 42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42
 </data>
  </layer>
- <objectgroup id="5" name="Collision Mask"/>
+ <objectgroup id="5" name="Collision Mask">
+  <object id="34" x="0" y="240" width="416" height="32"/>
+  <object id="35" x="400" y="80" width="16" height="160"/>
+  <object id="36" x="48" y="80" width="352" height="32"/>
+  <object id="37" x="0" y="0" width="16" height="192"/>
+  <object id="38" x="16" y="160" width="352" height="32"/>
+  <object id="39" x="16" y="0" width="400" height="32"/>
+ </objectgroup>
 </map>
