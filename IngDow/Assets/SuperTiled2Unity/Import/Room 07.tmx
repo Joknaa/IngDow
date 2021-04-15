@@ -46,7 +46,7 @@
 42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42,42
 </data>
  </layer>
- <objectgroup id="5" name="Collision Mask">
+ <objectgroup id="5" name="Collision Mask" visible="0">
   <object id="35" x="0" y="0" width="128" height="32"/>
   <object id="36" x="128" y="0" width="112" height="48"/>
   <object id="37" x="160" y="48" width="80" height="16"/>
