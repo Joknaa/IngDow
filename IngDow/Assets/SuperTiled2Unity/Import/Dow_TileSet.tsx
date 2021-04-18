@@ -5,6 +5,7 @@
   <terrain name="Walls 01" tile="21"/>
   <terrain name="LockedDoor" tile="-1"/>
   <terrain name="Wall 02" tile="369"/>
+  <terrain name="BG_Bricks" tile="0"/>
  </terraintypes>
  <tile id="16" terrain=",,,1"/>
  <tile id="17" terrain=",,1,"/>
@@ -26,25 +27,65 @@
  <tile id="61" terrain="0,0,,"/>
  <tile id="62" terrain="0,,,"/>
  <tile id="231" terrain="2,2,2,2"/>
+ <tile id="234" terrain=",,,3"/>
+ <tile id="235" terrain=",,3,3"/>
+ <tile id="236" terrain=",,3,3"/>
+ <tile id="237" terrain=",,3,3"/>
+ <tile id="238" terrain=",,3,"/>
  <tile id="248" terrain="2,2,2,"/>
  <tile id="249" terrain="2,2,,"/>
  <tile id="250" terrain="2,2,,"/>
  <tile id="251" terrain="2,2,,"/>
  <tile id="252" terrain="2,2,,2"/>
+ <tile id="254" terrain=",3,,3"/>
+ <tile id="255" terrain="3,3,3,3"/>
+ <tile id="256" terrain="3,3,3,3"/>
+ <tile id="257" terrain="3,3,3,3"/>
+ <tile id="258" terrain="3,,3,"/>
  <tile id="268" terrain="2,,2,"/>
+ <tile id="269" terrain="2,2,2,2"/>
+ <tile id="270" terrain="2,2,2,2"/>
+ <tile id="271" terrain="2,2,2,2"/>
  <tile id="272" terrain=",2,,2"/>
+ <tile id="274" terrain=",3,,"/>
+ <tile id="275" terrain="3,3,3,3"/>
+ <tile id="276" terrain="3,3,3,3"/>
+ <tile id="277" terrain="3,3,3,3"/>
+ <tile id="278" terrain="3,,,"/>
  <tile id="288" terrain="2,,2,2"/>
  <tile id="289" terrain=",,2,"/>
+ <tile id="290" terrain="2,2,2,2"/>
  <tile id="291" terrain=",,,2"/>
  <tile id="292" terrain=",2,2,2"/>
+ <tile id="295" terrain="3,3,,3"/>
+ <tile id="296" terrain="3,3,3,3"/>
+ <tile id="297" terrain="3,3,3,"/>
  <tile id="309" terrain="2,,2,"/>
+ <tile id="310" terrain="2,2,2,2"/>
  <tile id="311" terrain=",2,,2"/>
+ <tile id="315" terrain=",3,3,3"/>
+ <tile id="316" terrain="3,3,3,3"/>
+ <tile id="317" terrain="3,,3,3"/>
  <tile id="328" terrain="2,2,2,"/>
  <tile id="329" terrain="2,,,"/>
+ <tile id="330" terrain="2,2,2,2"/>
  <tile id="331" terrain=",2,,"/>
  <tile id="332" terrain="2,2,,2"/>
+ <tile id="334" terrain=",,,3"/>
+ <tile id="335" terrain="3,3,3,3"/>
+ <tile id="336" terrain="3,3,3,3"/>
+ <tile id="337" terrain="3,3,3,3"/>
+ <tile id="338" terrain=",,3,"/>
  <tile id="348" terrain="2,,2,"/>
+ <tile id="349" terrain="2,2,2,2"/>
+ <tile id="350" terrain="2,2,2,2"/>
+ <tile id="351" terrain="2,2,2,2"/>
  <tile id="352" terrain=",2,,2"/>
+ <tile id="354" terrain=",3,,"/>
+ <tile id="355" terrain="3,3,,"/>
+ <tile id="356" terrain="3,3,,"/>
+ <tile id="357" terrain="3,3,,"/>
+ <tile id="358" terrain="3,,,"/>
  <tile id="368" terrain="2,,2,2"/>
  <tile id="369" terrain=",,2,2"/>
  <tile id="370" terrain=",,2,2"/>

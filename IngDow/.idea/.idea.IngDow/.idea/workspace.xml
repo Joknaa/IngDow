@@ -23,11 +23,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/AnimationController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/MovementController.cs" />
         <option value="$PROJECT_DIR$/../../GameProject_Ookun/Ookun's Adventures (TopDown RPG)/Assets/_Scripts/Game Mecanics/CameraMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Transitions/RoomTransitions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Camera/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/AnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/GroundCheck.cs" />
       </list>
     </option>
   </component>
