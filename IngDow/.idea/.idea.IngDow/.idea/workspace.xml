@@ -1,47 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ChangeListManager">
-    <list default="true" id="70313703-2322-4ea2-bddf-d1f155e3ce9b" name="Default Changelist" comment="" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../GameProject_Ookun/Ookun's Adventures (TopDown RPG)/Assets/_Scripts/Game Mecanics/CameraMovement.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/GroundCheck.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/16/4c6426cd/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/MovemenController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MovementController - Copy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GroundCheck.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MovementController2.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/MovementController.cs" />
-        <option value="$PROJECT_DIR$/../../GameProject_Ookun/Ookun's Adventures (TopDown RPG)/Assets/_Scripts/Game Mecanics/CameraMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Transitions/RoomTransitions.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Camera/CameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/AnimationController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/GroundCheck.cs" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1qqCn7CZ0mIRbd4uuqPhuiFdkij" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="Discover.Launch.Via.Unity" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -62,40 +24,5 @@
       </option>
       <method v="2" />
     </configuration>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
-  <component name="VcsManagerConfiguration">
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="233" y="2" key="#Plugins" timestamp="1617980633189">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="233" y="2" key="#Plugins/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1617980633189" />
-    <state x="233" y="2" key="#Plugins/0.0.1280.720@0.0.1280.720" timestamp="1617908524162" />
-    <state x="321" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1617900693885">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="321" y="97" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1617900693885" />
-    <state x="221" y="104" key="IDE.errors.dialog" timestamp="1618046972169">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="221" y="104" key="IDE.errors.dialog/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1618046972169" />
-    <state x="221" y="104" key="IDE.errors.dialog/0.0.1280.720@0.0.1280.720" timestamp="1617909313640" />
-    <state x="409" y="85" key="RiderGenerateDialog" timestamp="1618336330162">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="409" y="85" key="RiderGenerateDialog/0.0.1280.720@0.0.1280.720" timestamp="1618336330162" />
-    <state x="142" y="6" key="SettingsEditor" timestamp="1617980131572">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="142" y="6" key="SettingsEditor/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1617980131572" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1617980596054">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/270.-768.1366.768@0.0.1280.720" timestamp="1617980596054" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1617908456759" />
   </component>
 </project>

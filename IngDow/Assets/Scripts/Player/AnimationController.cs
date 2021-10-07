@@ -39,7 +39,7 @@ namespace Player {
 
                 if (MovementController.Jump) {
                     ChangeAnimationState(PlayerState.Jump);
-                }
+                }    
             } else {
                 PlayerSprite.flipX = MovementController.xAxis < 0;
             }
