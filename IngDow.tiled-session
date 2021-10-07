@@ -1,0 +1,79 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "IngDow/Assets/Art/Levels/NEW_Room03.tmx": {
+            "scale": 3.503125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 208.09991079393401,
+                "y": 128.171275646744
+            }
+        },
+        "IngDow/Assets/Levels/NEW_Room01.tmx": {
+            "scale": 2.336580882352941,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 216.12776335457482,
+                "y": 178.89387144992529
+            }
+        },
+        "IngDow/Assets/Levels/NEW_Room02.tmx": {
+            "scale": 2.336580882352941,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 215.69978758555584,
+                "y": 120.04720320981826
+            }
+        },
+        "IngDow/Assets/Levels/NEW_Room03.tmx": {
+            "scale": 2.336580882352941,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 216.12776335457482,
+                "y": 178.89387144992529
+            }
+        },
+        "IngDow/Assets/Levels/NEW_Room04.tmx": {
+            "scale": 2.336580882352941,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 216.12776335457482,
+                "y": 178.89387144992529
+            }
+        },
+        "IngDow/Assets/Levels/NEW_Room05.tmx": {
+            "scale": 2.336580882352941,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 216.12776335457482,
+                "y": 178.89387144992529
+            }
+        },
+        "IngDow/Assets/Levels/NEW_Room06.tmx": {
+            "scale": 2.336580882352941,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 216.12776335457482,
+                "y": 178.89387144992529
+            }
+        },
+        "IngDow/Assets/Levels/NEW_Room07.tmx": {
+            "scale": 2.336580882352941,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 215.2718118165369,
+                "y": 178.89387144992529
+            }
+        },
+        "IngDow/Assets/TileSet/Dow_TileSet.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "",
+    "recentFiles": [
+    ]
+}
