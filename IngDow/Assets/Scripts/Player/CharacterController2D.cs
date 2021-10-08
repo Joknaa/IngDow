@@ -6,7 +6,7 @@ namespace Player {
 		[Range(0, .3f)] [SerializeField] private float MovementSmoothing = .05f;
 		[SerializeField] private bool AirControl = false;
 
-		public bool IsGrounded = true;           
+		/*public bool IsGrounded = true;           
 		private Rigidbody2D Rigid;
 		private Vector3 Velocity = Vector3.zero;
 
@@ -24,6 +24,6 @@ namespace Player {
 				IsGrounded = false;
 				Rigid.AddForce(new Vector2(0f, JumpForce));
 			}
-		}
+		}*/
 	}
 }

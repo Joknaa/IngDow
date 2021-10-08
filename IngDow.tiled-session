@@ -1,5 +1,5 @@
 {
-    "activeFile": "",
+    "activeFile": "IngDow/Assets/Levels/NEW_StartingArea.tmx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
@@ -10,6 +10,9 @@
                 "x": 208.09991079393401,
                 "y": 128.171275646744
             }
+        },
+        "IngDow/Assets/Art/TileSet/Dow_TileSet.tsx": {
+            "scaleInDock": 1
         },
         "IngDow/Assets/Levels/NEW_Room01.tmx": {
             "scale": 2.336580882352941,
@@ -67,13 +70,39 @@
                 "y": 178.89387144992529
             }
         },
+        "IngDow/Assets/Levels/NEW_StartingArea.tmx": {
+            "scale": 2.336580882352941,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 215.69978758555584,
+                "y": 178.89387144992529
+            }
+        },
         "IngDow/Assets/TileSet/Dow_TileSet.tsx": {
             "scaleInDock": 1
         }
     },
     "openFiles": [
+        "IngDow/Assets/Art/Levels/NEW_Room03.tmx",
+        "IngDow/Assets/Levels/NEW_Room02.tmx",
+        "IngDow/Assets/Levels/NEW_Room01.tmx",
+        "IngDow/Assets/Levels/NEW_Room03.tmx",
+        "IngDow/Assets/Levels/NEW_Room04.tmx",
+        "IngDow/Assets/Levels/NEW_Room05.tmx",
+        "IngDow/Assets/Levels/NEW_Room06.tmx",
+        "IngDow/Assets/Levels/NEW_Room07.tmx",
+        "IngDow/Assets/Levels/NEW_StartingArea.tmx"
     ],
     "project": "",
     "recentFiles": [
+        "IngDow/Assets/Art/Levels/NEW_Room03.tmx",
+        "IngDow/Assets/Levels/NEW_Room02.tmx",
+        "IngDow/Assets/Levels/NEW_Room01.tmx",
+        "IngDow/Assets/Levels/NEW_Room03.tmx",
+        "IngDow/Assets/Levels/NEW_Room04.tmx",
+        "IngDow/Assets/Levels/NEW_Room05.tmx",
+        "IngDow/Assets/Levels/NEW_Room06.tmx",
+        "IngDow/Assets/Levels/NEW_Room07.tmx",
+        "IngDow/Assets/Levels/NEW_StartingArea.tmx"
     ]
 }

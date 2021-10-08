@@ -28,20 +28,21 @@ namespace Player {
         }
     
         private void Update() {
-            if (CharacterController2D.IsGrounded) {
-                if (MovementController.xAxis != 0) {
-                    PlayerSprite.flipX = MovementController.xAxis < 0;
+            //if (CharacterController2D.IsGrounded) {
+            if (MovementController.IsGrounded) {
+                if (MovementController.moveDirection != 0) {
+                    PlayerSprite.flipX = MovementController.moveDirection < 0;
                     ChangeAnimationState(PlayerState.Run);
                 }
                 else {
                     ChangeAnimationState(PlayerState.Idle);
                 }
 
-                if (MovementController.Jump) {
-                    ChangeAnimationState(PlayerState.Jump);
-                }    
+                //if (MovementController.Jump) {
+                //    ChangeAnimationState(PlayerState.Jump);
+                //}    
             } else {
-                PlayerSprite.flipX = MovementController.xAxis < 0;
+                PlayerSprite.flipX = MovementController.moveDirection < 0;
             }
 
         
