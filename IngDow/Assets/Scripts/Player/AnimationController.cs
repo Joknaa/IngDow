@@ -18,7 +18,7 @@ namespace Player {
             PlayerSprite = GetComponent<SpriteRenderer>();
             PlayerAnimator = GetComponent<Animator>();
             MovementController = GetComponent<MovementController>();
-            CharacterController2D = GetComponent<CharacterController2D>();
+            //CharacterController2D = GetComponent<CharacterController2D>();
         }
 
         public void ChangeAnimationState(PlayerState newState) {
@@ -28,24 +28,21 @@ namespace Player {
         }
     
         private void Update() {
-            //if (CharacterController2D.IsGrounded) {
-            if (MovementController.IsGrounded) {
-                if (MovementController.moveDirection != 0) {
-                    PlayerSprite.flipX = MovementController.moveDirection < 0;
+            float moveDirection = MovementController.get_MoveDirection;
+            bool isGrounded = MovementController.get_IsGrounded;
+            bool isJumping = MovementController.get_IsJumping;
+            if (isGrounded) {
+                if (moveDirection != 0) {
+                    PlayerSprite.flipX = moveDirection < 0;
                     ChangeAnimationState(PlayerState.Run);
                 }
                 else {
                     ChangeAnimationState(PlayerState.Idle);
-                }
-
-                //if (MovementController.Jump) {
-                //    ChangeAnimationState(PlayerState.Jump);
-                //}    
+                }   
             } else {
-                PlayerSprite.flipX = MovementController.moveDirection < 0;
+                ChangeAnimationState(PlayerState.Jump);
+                PlayerSprite.flipX = moveDirection < 0;
             }
-
-        
         }
     }
 }
