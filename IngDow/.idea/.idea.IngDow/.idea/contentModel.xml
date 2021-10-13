@@ -12,7 +12,6 @@
           </e>
           <e p="Player" t="Include">
             <e p="AnimationController.cs" t="Include" />
-            <e p="CharacterController2D.cs" t="Include" />
             <e p="GroundCheck.cs" t="Include" />
             <e p="MovementController.cs" t="Include" />
           </e>

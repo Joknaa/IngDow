@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 namespace Player {
     public enum PlayerState {
@@ -8,11 +9,11 @@ namespace Player {
         Run
     }
     public class AnimationController : MonoBehaviour {
+        [SerializeField] private Sprite playerJumpSprite;
         private SpriteRenderer PlayerSprite;
         private Animator PlayerAnimator;
         private PlayerState CurrentState;
         private MovementController MovementController;
-        private CharacterController2D CharacterController2D;
 
         private void Start() {
             PlayerSprite = GetComponent<SpriteRenderer>();
@@ -40,6 +41,7 @@ namespace Player {
                     ChangeAnimationState(PlayerState.Idle);
                 }   
             } else {
+                PlayerSprite.sprite = playerJumpSprite;
                 ChangeAnimationState(PlayerState.Jump);
                 PlayerSprite.flipX = moveDirection < 0;
             }
