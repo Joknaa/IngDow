@@ -1,23 +1,25 @@
 ﻿using System;
+using Unity.Mathematics;
 using UnityEngine;
 
 namespace Camera {
     public class CameraController : MonoBehaviour {
-        private Transform playerTransform;
-        private float cameraPosition;
-        
-        private void Start() {
-            playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
-        }
-
-        public void MoveCamera(float translation) {
-            Vector2 CurrentPosition = transform.position;
-            transform.position = new Vector3(CurrentPosition.x + translation, CurrentPosition.y, -10);
-        }
+        [SerializeField] private float transitionSmoothing = 0.1f;
+        private float cameraPosition = 15;
+        private float cameraNewPosition = 15;
 
         private void LateUpdate() {
+            cameraPosition = Mathf.Lerp(cameraPosition, cameraNewPosition, transitionSmoothing);
+            MoveCamera();
+        }
+
+        public void SetCameraPosition(float CameraTranslation) {
+            cameraNewPosition = cameraPosition + CameraTranslation;
+        }
+
+        private void MoveCamera() {
             Vector3 currentPosition = transform.position;
-            transform.position = new Vector3(playerTransform.position.x, currentPosition.y, currentPosition.z);
+            transform.position = new Vector3(cameraPosition, currentPosition.y, currentPosition.z);
         }
     }
 }

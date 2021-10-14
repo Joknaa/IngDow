@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../GameProject_Ookun/Ookun's Adventures (TopDown RPG)/Assets/_Scripts/Game Mecanics/CameraMovement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Kokoro/Square Surfer 2D/Assets/SquareGame/Script/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -15,9 +16,9 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/GroundCheck.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/MovementController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Transitions/RoomTransitions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/AnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Transitions/RoomTransitions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Camera/CameraController.cs" />
       </list>
     </option>

@@ -13,7 +13,8 @@ ScriptedImporter:
   warnings: []
   missingSortingLayers: []
   missingLayers: []
-  missingTags: []
+  missingTags:
+  - Groun
   importerVersion: 24
   pixelsPerUnit: 16
   edgesPerEllipse: 16

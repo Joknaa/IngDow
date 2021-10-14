@@ -18,7 +18,7 @@ namespace Transitions {
 
         private void OnTriggerEnter2D(Collider2D other) {
             if (other.CompareTag("Player")) {
-                CameraScript.MoveCamera(CameraTranslation);
+                CameraScript.SetCameraPosition(CameraTranslation);
                 other.transform.position += PlayerTranslation;
             }
         }
