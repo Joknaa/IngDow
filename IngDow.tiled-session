@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "O:/MyStuff/Files/mySpace/Projects/games/unity/Kokoro/Square Surfer 2D/Assets/SquareGame/Sprite/Environements/Marsa/Port_Tileset.tsx",
+    "activeFile": "IngDow/Assets/Levels/NEW_StartingArea.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -23,23 +23,23 @@
             "scale": 2.336580882352941,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 208.85217528125244,
-                "y": 128.392730705688
+                "x": 239.66643065061763,
+                "y": 160.27692549760053
             }
         },
         "IngDow/Assets/Levels/NEW_Room02.tmx": {
             "scale": 2.336580882352941,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 208.42419951223354,
-                "y": 128.392730705688
+                "x": 239.66643065061763,
+                "y": 160.27692549760053
             }
         },
         "IngDow/Assets/Levels/NEW_Room03.tmx": {
             "scale": 2.336580882352941,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 208.42419951223354,
+                "x": 208.85217528125244,
                 "y": 128.392730705688
             }
         },
@@ -47,32 +47,32 @@
             "scale": 2.336580882352941,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 208.42419951223354,
-                "y": 128.392730705688
+                "x": 239.66643065061763,
+                "y": 160.27692549760053
             }
         },
         "IngDow/Assets/Levels/NEW_Room05.tmx": {
             "scale": 2.336580882352941,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 208.42419951223354,
-                "y": 128.392730705688
+                "x": 239.66643065061763,
+                "y": 160.27692549760053
             }
         },
         "IngDow/Assets/Levels/NEW_Room06.tmx": {
             "scale": 2.336580882352941,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 208.42419951223354,
-                "y": 128.392730705688
+                "x": 239.66643065061763,
+                "y": 160.27692549760053
             }
         },
         "IngDow/Assets/Levels/NEW_Room07.tmx": {
             "scale": 2.336580882352941,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 207.56824797419557,
-                "y": 127.96475493666902
+                "x": 239.66643065061763,
+                "y": 160.27692549760053
             }
         },
         "IngDow/Assets/Levels/NEW_StartingArea.tmx": {
@@ -103,29 +103,27 @@
         }
     },
     "openFiles": [
-        "IngDow/Assets/Levels/NEW_Room01.tmx",
         "IngDow/Assets/Levels/NEW_StartingArea.tmx",
+        "IngDow/Assets/Levels/NEW_Room01.tmx",
         "IngDow/Assets/Levels/NEW_Room02.tmx",
         "IngDow/Assets/Levels/NEW_Room03.tmx",
         "IngDow/Assets/Levels/NEW_Room04.tmx",
         "IngDow/Assets/Levels/NEW_Room05.tmx",
         "IngDow/Assets/Levels/NEW_Room06.tmx",
-        "IngDow/Assets/Levels/NEW_Room07.tmx",
-        "O:/MyStuff/Files/mySpace/Projects/games/unity/Kokoro/Square Surfer 2D/Assets/SquareGame/Levels/Worlds 10 Desert/Level 02.tmx",
-        "O:/MyStuff/Files/mySpace/Projects/games/unity/Kokoro/Square Surfer 2D/Assets/SquareGame/Sprite/Environements/Marsa/Port_Tileset.tsx"
+        "IngDow/Assets/Levels/NEW_Room07.tmx"
     ],
     "project": "",
     "recentFiles": [
-        "O:/MyStuff/Files/mySpace/Projects/games/unity/Kokoro/Square Surfer 2D/Assets/SquareGame/Sprite/Environements/Marsa/Port_Tileset.tsx",
-        "O:/MyStuff/Files/mySpace/Projects/games/unity/Kokoro/Square Surfer 2D/Assets/SquareGame/Levels/Worlds 10 Desert/Level 02.tmx",
+        "IngDow/Assets/Levels/NEW_Room07.tmx",
+        "IngDow/Assets/Levels/NEW_Room06.tmx",
+        "IngDow/Assets/Levels/NEW_Room05.tmx",
+        "IngDow/Assets/Levels/NEW_Room04.tmx",
+        "IngDow/Assets/Levels/NEW_Room03.tmx",
+        "IngDow/Assets/Levels/NEW_Room02.tmx",
         "IngDow/Assets/Levels/NEW_Room01.tmx",
         "IngDow/Assets/Levels/NEW_StartingArea.tmx",
-        "IngDow/Assets/Levels/NEW_Room02.tmx",
-        "IngDow/Assets/Levels/NEW_Room03.tmx",
-        "IngDow/Assets/Levels/NEW_Room04.tmx",
-        "IngDow/Assets/Levels/NEW_Room05.tmx",
-        "IngDow/Assets/Levels/NEW_Room06.tmx",
-        "IngDow/Assets/Levels/NEW_Room07.tmx",
+        "O:/MyStuff/Files/mySpace/Projects/games/unity/Kokoro/Square Surfer 2D/Assets/SquareGame/Sprite/Environements/Marsa/Port_Tileset.tsx",
+        "O:/MyStuff/Files/mySpace/Projects/games/unity/Kokoro/Square Surfer 2D/Assets/SquareGame/Levels/Worlds 10 Desert/Level 02.tmx",
         "IngDow/Assets/Art/Levels/NEW_Room03.tmx"
     ]
 }
